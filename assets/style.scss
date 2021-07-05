@@ -1,0 +1,14 @@
+
+
+body {
+    background-color: black;
+}
+
+.logo {
+    &-wrapper {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+}
+
